@@ -1,0 +1,9 @@
+Joao;22
+Emilly;19
+Arthur;16
+Lena;43
+Gaba;44
+Valda;65
+Heitor;3
+NomeTeste;22
+Jvr;22
